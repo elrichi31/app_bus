@@ -1,0 +1,139 @@
+{
+    "rutas": [
+      {
+        "id": "ruta_9",
+        "nombre": "Ruta 9",
+        "sector": "Carcelen",
+        "recorrido": "Carcelen - USFQ - Carcelen",
+        "horas": "06:50 - 17:60",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij5lfBN-feRXbbeMU7KwDV77fFfwdi3Gjh_TGC5JsJn1SSuzrQYv70vLQ8kOmRhxlqpxNUj92azb0MFxcHbd8WlbqG4hTDclzBJfYQICWIACbDv0s8wwMYKaES-EpMGBEnYWidXQMPdg/s1600/Captura+de+Pantalla+2020-01-13+a+la%2528s%2529+15.50.51.png",
+        "paradas": [
+          {
+            "direccion": "Av. Eloy Alfaro y Av. De los Granados, cerca de la estación de Ecovía",
+            "hora_dia": "06:50",
+            "hora_tarde": "17:30"
+          },
+          {
+            "direccion": "Calle Julio Arellano y Av. De la Prensa, entrada a Carcelén Industrial",
+            "hora_dia": "06:55",
+            "hora_tarde": "17:35"
+          }
+        ]
+      },
+      {
+        "id": "ruta_10",
+        "nombre": "Ruta 10",
+        "sector": "El Condado",
+        "recorrido": "El Condado - La Ofelia - El Condado",
+        "horas": "06:00 - 18:00",
+        "paradas": [
+          {
+            "direccion": "Av. La Prensa y Av. Del Maestro, parada de bus frente al CC El Condado",
+            "hora_dia": "06:00",
+            "hora_tarde": "18:00"
+          },
+          {
+            "direccion": "Redondel de La Ofelia, junto al parque",
+            "hora_dia": "06:20",
+            "hora_tarde": "18:20"
+          }
+        ]
+      },
+      {
+        "id": "ruta_11",
+        "nombre": "Ruta 11",
+        "sector": "Guápulo",
+        "recorrido": "Guápulo - Plaza Foch - Guápulo",
+        "horas": "07:30 - 19:30",
+        "paradas": [
+          {
+            "direccion": "Camino de Orellana, Guápulo, cerca del Convento",
+            "hora_dia": "07:30",
+            "hora_tarde": "19:30"
+          },
+          {
+            "direccion": "Calle Cumbayá y Calle Quito, barrio La Floresta",
+            "hora_dia": "07:50",
+            "hora_tarde": "19:50"
+          }
+        ]
+      },
+      {
+        "id": "ruta_12",
+        "nombre": "Ruta 12",
+        "sector": "Mitad del Mundo",
+        "recorrido": "Mitad del Mundo - UNASUR - Mitad del Mundo",
+        "horas": "08:00 - 20:00",
+        "paradas": [
+          {
+            "direccion": "Monumento a la Mitad del Mundo, entrada principal",
+            "hora_dia": "08:00",
+            "hora_tarde": "20:00"
+          },
+          {
+            "direccion": "Edificio UNASUR, parada de bus cercana",
+            "hora_dia": "08:30",
+            "hora_tarde": "20:30"
+          }
+        ]
+      },
+      {
+        "id": "ruta_13",
+        "nombre": "Ruta 13",
+        "sector": "Cumbayá",
+        "recorrido": "Cumbayá - Universidad San Francisco - Cumbayá",
+        "horas": "06:40 - 18:40",
+        "paradas": [
+          {
+            "direccion": "Parque Central de Cumbayá, junto a la iglesia",
+            "hora_dia": "06:40",
+            "hora_tarde": "18:40"
+          },
+          {
+            "direccion": "Universidad San Francisco de Quito, parada principal",
+            "hora_dia": "07:00",
+            "hora_tarde": "19:00"
+          }
+        ]
+      },
+      {
+        "id": "ruta_14",
+        "nombre": "Ruta 14",
+        "sector": "Tumbaco",
+        "recorrido": "Tumbaco - Scala Shopping - Tumbaco",
+        "horas": "07:15 - 19:15",
+        "paradas": [
+          {
+            "direccion": "Plaza Central de Tumbaco, frente al mercado",
+            "hora_dia": "07:15",
+            "hora_tarde": "19:15"
+          },
+          {
+            "direccion": "Scala Shopping, entrada por la Av. Interoceánica",
+            "hora_dia": "07:35",
+            "hora_tarde": "19:35"
+          }
+        ]
+      },
+      {
+        "id": "ruta_15",
+        "nombre": "Ruta 15",
+        "sector": "El Inca",
+        "recorrido": "El Inca - Quito Norte - El Inca",
+        "horas": "06:30 - 19:00",
+        "paradas": [
+          {
+            "direccion": "Av. De los Shyris y Av. Naciones Unidas, Parque La Carolina",
+            "hora_dia": "06:30",
+            "hora_tarde": "19:00"
+          },
+          {
+            "direccion": "Av. 10 de Agosto y NNUU, cerca del Centro Comercial Iñaquito",
+            "hora_dia": "06:45",
+            "hora_tarde": "19:15"
+          }
+        ]
+      }
+    ]
+  }
+  
